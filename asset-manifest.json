@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ItsHope/newrepo.git/static/css/main.6a4bc580.css",
+    "main.js": "/ItsHope/newrepo.git/static/js/main.d221968f.js",
+    "static/media/Homepage.png": "/ItsHope/newrepo.git/static/media/Homepage.40b4b5e48fd7fa7cb775.png",
+    "static/media/BlognDesign.png": "/ItsHope/newrepo.git/static/media/BlognDesign.aaff8d2809128d5a661c.png",
+    "static/media/InternetArt.png": "/ItsHope/newrepo.git/static/media/InternetArt.5c68e3ce46445bdba39b.png",
+    "index.html": "/ItsHope/newrepo.git/index.html",
+    "main.6a4bc580.css.map": "/ItsHope/newrepo.git/static/css/main.6a4bc580.css.map",
+    "main.d221968f.js.map": "/ItsHope/newrepo.git/static/js/main.d221968f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a4bc580.css",
+    "static/js/main.d221968f.js"
+  ]
+}
